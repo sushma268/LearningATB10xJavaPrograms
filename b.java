@@ -1,6 +1,12 @@
+package Ex_01_javaBasics;
+
+import java.sql.SQLOutput;
+
 class b
   {
-    public static vaoid main(String args[])
+    public static void main(String args[ ])
     {
       System.out.println("this is sushma");
-    }}
+      System.out.println("this is samrat");
+    }
+  }
